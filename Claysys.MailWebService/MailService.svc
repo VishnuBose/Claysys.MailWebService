@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Claysys.MailWebService.MailService" CodeBehind="MailService.svc.cs" %>
